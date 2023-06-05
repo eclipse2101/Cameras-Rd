@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 847
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -906,7 +906,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: ec3d0000
       m_LastClickedID: 15852
-      m_ExpandedIDs: 28fbffff
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1017,7 +1017,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.15819639, y: 0.1524833, z: -0.02473433, w: -0.97525334}
     speed: 2
-    m_Value: {x: -0.15819575, y: 0.15248269, z: -0.024734229, w: -0.9752494}
+    m_Value: {x: -0.15819639, y: 0.1524833, z: -0.024734328, w: -0.9752534}
   m_Size:
     m_Target: 14.639253
     speed: 2
@@ -1092,10 +1092,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -157.25
-    m_HBaseRangeMax: 157.25
-    m_VBaseRangeMin: -107.25
-    m_VBaseRangeMax: 107.25
+    m_HBaseRangeMin: -314.5
+    m_HBaseRangeMax: 314.5
+    m_VBaseRangeMin: -225
+    m_VBaseRangeMax: 225
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1112,24 +1112,24 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 629
-      height: 429
-    m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 314.5, y: 214.5}
+      height: 450
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 314.5, y: 225}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -157.25
-      y: -107.25
-      width: 314.5
-      height: 214.5
+      x: -314.5
+      y: -225
+      width: 629
+      height: 450
     m_MinimalGUI: 1
-  m_defaultScale: 2
-  m_LastWindowPixelSize: {x: 1258, y: 900}
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 629, y: 450}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
