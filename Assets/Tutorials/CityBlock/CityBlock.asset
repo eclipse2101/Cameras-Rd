@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: CityBlock
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: City Block
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 0
+  m_LessonId: 
+  m_Version: 0
+  m_Scene: {fileID: 102900000, guid: f33b129ab42eb466780f5049721c059b, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 31.07999
+    m_Pivot: {x: 6.568325, y: -10.007887, z: 17.256992}
+    m_Rotation: {x: 0.2039319, y: 0.1895342, z: -0.040278234, w: 0.9596195}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1
+  m_WindowLayout: {fileID: 102900000, guid: cc5a4347551304f839df11ff2898b471, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 247080b1ba0da47058e029571dbbf9ff, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []

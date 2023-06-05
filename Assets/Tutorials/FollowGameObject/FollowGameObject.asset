@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: FollowGameObject
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Follow a GameObject
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 0
+  m_LessonId: 
+  m_Version: 0
+  m_Scene: {fileID: 102900000, guid: 46c76ea4efc178b489cec1e3b6f176cf, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 102900000, guid: cc5a4347551304f839df11ff2898b471, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: beea788f087cf48f0ad32e6cdea61a30, type: 2}
+    - {fileID: 11400000, guid: c95d783576e59429186e7a943e84da90, type: 2}
+    - {fileID: 11400000, guid: 2c4be77a6908b4c6698f45dbedf7fc6a, type: 2}
+    - {fileID: 11400000, guid: 797472c1dd73645858995438baebbdda, type: 2}
+    - {fileID: 11400000, guid: 02c91a1b0915243b79226c6c1e704257, type: 2}
+    - {fileID: 11400000, guid: 235e337baee2640bd8f546858aae3f40, type: 2}
+    - {fileID: 11400000, guid: 3b8cf157abd5a46f4b741e68bd63d1fe, type: 2}
+    - {fileID: 11400000, guid: 51a70feb428f0479d8702cd4d43207e3, type: 2}
+    - {fileID: 11400000, guid: 8e6cb18bb4d5f44a794240b51ff1f1b6, type: 2}
+    - {fileID: 11400000, guid: 6a45e139ae50243a093b3fdac28fd417, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []

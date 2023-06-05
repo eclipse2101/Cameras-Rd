@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Transform
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Transform Main Camera
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 0
+  m_LessonId: 
+  m_Version: 1
+  m_Scene: {fileID: 102900000, guid: 46c76ea4efc178b489cec1e3b6f176cf, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 3.9120903
+    m_Pivot: {x: -4.7957478, y: -1.8553703, z: 16.834475}
+    m_Rotation: {x: -0.059137948, y: -0.19283012, z: 0.011643966, w: -0.97938144}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1
+  m_WindowLayout: {fileID: 102900000, guid: cc5a4347551304f839df11ff2898b471, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 49511ef45009e40d586cc2e02ba648d8, type: 2}
+    - {fileID: 11400000, guid: 516e1447b89274c01985df59ffa5335d, type: 2}
+    - {fileID: 11400000, guid: 4a5e7c817bb6e44ff80d493797dc2126, type: 2}
+    - {fileID: 11400000, guid: cb14c4ff3a60d4613b7c3374326fdb60, type: 2}
+    - {fileID: 11400000, guid: 03f54191e4eef43be8a39ea043a1729f, type: 2}
+    - {fileID: 11400000, guid: f81014bff9ca644c9a1fa03a876be4bd, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []
